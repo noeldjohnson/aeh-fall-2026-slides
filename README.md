@@ -8,7 +8,7 @@ Slides are posted after each class meeting.
 | Week | Date | Topic | Slides |
 |------|------|-------|--------|
 | 1 | 24 Aug | Introduction | [`WK01_Introduction.pdf`](./WK01_Introduction.pdf) |
-| 2 | 31 Aug | Measurement and Causality | — |
+| 2 | 31 Aug | Measurement and Causality | [`WK02_Measurement.pdf`](./WK02_Measurement.pdf) |
 | 3 | 14 Sep | Colonialism as a Natural Experiment | — |
 | 4 | 21 Sep | Institutions, Culture, and Antecedents | — |
 | 5 | 28 Sep | Industrialization | — |
