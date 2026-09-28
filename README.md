@@ -11,7 +11,7 @@ Slides are posted after each class meeting.
 | 2 | 31 Aug | Measurement and Causality | [`WK02_Measurement.pdf`](./WK02_Measurement.pdf) |
 | 3 | 14 Sep | Colonialism as a Natural Experiment | [`WK03_Colonialism.pdf`](./WK03_Colonialism.pdf) |
 | 4 | 21 Sep | Institutions, Culture, and Antecedents | [`WK04_Institutions.pdf`](./WK04_Institutions.pdf) |
-| 5 | 28 Sep | Industrialization | — |
+| 5 | 28 Sep | Industrialization | [`WK05_Industrialization.pdf`](./WK05_Industrialization.pdf) |
 | 6 | 05 Oct | Cities | — |
 | 7 | 19 Oct | Oral Midterm Exams | — |
 | 8 | 26 Oct | Health and Disease | — |
