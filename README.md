@@ -12,7 +12,7 @@ Slides are posted after each class meeting.
 | 3 | 14 Sep | Colonialism as a Natural Experiment | [`WK03_Colonialism.pdf`](./WK03_Colonialism.pdf) |
 | 4 | 21 Sep | Institutions, Culture, and Antecedents | [`WK04_Institutions.pdf`](./WK04_Institutions.pdf) |
 | 5 | 28 Sep | Industrialization | [`WK05_Industrialization.pdf`](./WK05_Industrialization.pdf) |
-| 6 | 05 Oct | Cities | — |
+| 6 | 05 Oct | Cities | [`WK06_Cities.pdf`](./WK06_Cities.pdf) |
 | 7 | 19 Oct | Oral Midterm Exams | — |
 | 8 | 26 Oct | Health and Disease | — |
 | 9 | 02 Nov | Infrastructure | — |
@@ -21,6 +21,10 @@ Slides are posted after each class meeting.
 | 12 | 23 Nov | Recent Developments | — |
 | 13 | 30 Nov | Student Paper Presentations | — |
 | 14 | 07 Dec | Student Paper Presentations | — |
+
+## Handouts
+
+- [Oral midterm study guide](./Midterm_Guide_Fall26.pdf)
 
 Final oral exams: Monday 14 December, 4:30–7:15 PM.
 
