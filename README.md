@@ -14,7 +14,7 @@ Slides are posted after each class meeting.
 | 5 | 28 Sep | Industrialization | [`WK05_Industrialization.pdf`](./WK05_Industrialization.pdf) |
 | 6 | 05 Oct | Cities | [`WK06_Cities.pdf`](./WK06_Cities.pdf) |
 | 7 | 19 Oct | Oral Midterm Exams | — |
-| 8 | 26 Oct | Health and Disease | — |
+| 8 | 26 Oct | Health and Disease | [`WK08_HealthDisease.pdf`](./WK08_HealthDisease.pdf) |
 | 9 | 02 Nov | Infrastructure | — |
 | 10 | 09 Nov | The Legacy of Slavery | — |
 | 11 | 16 Nov | The Great Depression | — |
