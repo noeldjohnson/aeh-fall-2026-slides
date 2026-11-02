@@ -15,7 +15,7 @@ Slides are posted after each class meeting.
 | 6 | 05 Oct | Cities | [`WK06_Cities.pdf`](./WK06_Cities.pdf) |
 | 7 | 19 Oct | Oral Midterm Exams | — |
 | 8 | 26 Oct | Health and Disease | [`WK08_HealthDisease.pdf`](./WK08_HealthDisease.pdf) |
-| 9 | 02 Nov | Infrastructure | — |
+| 9 | 02 Nov | Infrastructure | [`WK09_Infrastructure.pdf`](./WK09_Infrastructure.pdf) |
 | 10 | 09 Nov | The Legacy of Slavery | — |
 | 11 | 16 Nov | The Great Depression | — |
 | 12 | 23 Nov | Recent Developments | — |
